@@ -1,6 +1,6 @@
 Hi there 👋 My name is **Damla**
 - 🔭 I’m currently working on: inital UX/UI Design Porfolio & Website
-- 🌱 I’m currently learning: vibecoding to make simple games and teach myself how to read & make changes to the code myself.
+- 🌱 I’m currently learning: vibecoding simple games and teaching myself how to read & write code myself.
 - 👯 I’m looking to collaborate on: any project where i get to learn, grow and thrive 🏋🏽‍♀️
 - 🤔 I’m looking for help with: hmmm patience i guess haha 
 - 💬 Ask me about: anything. As long as it comes with good intentions and curiosity
